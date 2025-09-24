@@ -1,1 +1,10 @@
 link da pagina = https://angelofdiasg.tech/desafio-rpa
+
+
+posição de nome = x=1035, y=441
+
+posição de sobrenome = x=1034, y=517
+
+posição do submit = (x=631, y=767)
+
+posição do go back = (x=608, y=659)
